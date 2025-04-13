@@ -1,0 +1,134 @@
+2025-04-13 11:48:18,003:====== WebDriver manager ======
+2025-04-13 11:48:18,003:====== WebDriver manager ======
+2025-04-13 11:48:20,928:Get LATEST chromedriver version for google-chrome
+2025-04-13 11:48:21,112:Get LATEST chromedriver version for google-chrome
+2025-04-13 11:48:21,283:Driver [C:\Users\abhis\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-13 11:48:25,535:Website is live. Status Code: complete
+2025-04-13 11:48:25,536:Page load time: 3.094172954559326 seconds
+2025-04-13 11:48:25,536:Waiting for LOGIN button...
+2025-04-13 11:48:47,517:Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008080E3+60707]
+	GetHandleVerifier [0x00808124+60772]
+	(No symbol) [0x00630683]
+	(No symbol) [0x00678660]
+	(No symbol) [0x006789FB]
+	(No symbol) [0x006C1022]
+	(No symbol) [0x0069D094]
+	(No symbol) [0x006BE824]
+	(No symbol) [0x0069CE46]
+	(No symbol) [0x0066C5D3]
+	(No symbol) [0x0066D424]
+	GetHandleVerifier [0x00A4BBC3+2435075]
+	GetHandleVerifier [0x00A47163+2416035]
+	GetHandleVerifier [0x00A6350C+2531660]
+	GetHandleVerifier [0x0081F1B5+155125]
+	GetHandleVerifier [0x00825B5D+182173]
+	GetHandleVerifier [0x0080F9B8+91640]
+	GetHandleVerifier [0x0080FB60+92064]
+	GetHandleVerifier [0x007FA620+4704]
+	BaseThreadInitThunk [0x75C25D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-04-13 11:48:49,763:Browser closed after wait.
+2025-04-13 11:56:57,750:====== WebDriver manager ======
+2025-04-13 11:56:57,751:====== WebDriver manager ======
+2025-04-13 11:57:00,713:Get LATEST chromedriver version for google-chrome
+2025-04-13 11:57:00,907:Get LATEST chromedriver version for google-chrome
+2025-04-13 11:57:01,087:Driver [C:\Users\abhis\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-13 11:57:04,637:Website is live. Status Code: complete
+2025-04-13 11:57:04,637:Page load time: 2.3989346027374268 seconds
+2025-04-13 11:57:04,637:Waiting for LOGIN button...
+2025-04-13 11:57:24,869:Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008080E3+60707]
+	GetHandleVerifier [0x00808124+60772]
+	(No symbol) [0x00630683]
+	(No symbol) [0x00678660]
+	(No symbol) [0x006789FB]
+	(No symbol) [0x006C1022]
+	(No symbol) [0x0069D094]
+	(No symbol) [0x006BE824]
+	(No symbol) [0x0069CE46]
+	(No symbol) [0x0066C5D3]
+	(No symbol) [0x0066D424]
+	GetHandleVerifier [0x00A4BBC3+2435075]
+	GetHandleVerifier [0x00A47163+2416035]
+	GetHandleVerifier [0x00A6350C+2531660]
+	GetHandleVerifier [0x0081F1B5+155125]
+	GetHandleVerifier [0x00825B5D+182173]
+	GetHandleVerifier [0x0080F9B8+91640]
+	GetHandleVerifier [0x0080FB60+92064]
+	GetHandleVerifier [0x007FA620+4704]
+	BaseThreadInitThunk [0x75C25D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-04-13 11:57:27,125:Browser closed after wait.
+2025-04-13 11:59:44,126:====== WebDriver manager ======
+2025-04-13 11:59:44,126:====== WebDriver manager ======
+2025-04-13 11:59:47,041:Get LATEST chromedriver version for google-chrome
+2025-04-13 11:59:47,241:Get LATEST chromedriver version for google-chrome
+2025-04-13 11:59:47,436:Driver [C:\Users\abhis\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-13 11:59:51,999:Website is live. Status Code: complete
+2025-04-13 11:59:51,999:Page load time: 3.395127296447754 seconds
+2025-04-13 12:00:02,050:Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008080E3+60707]
+	GetHandleVerifier [0x00808124+60772]
+	(No symbol) [0x00630683]
+	(No symbol) [0x00678660]
+	(No symbol) [0x006789FB]
+	(No symbol) [0x006C1022]
+	(No symbol) [0x0069D094]
+	(No symbol) [0x006BE824]
+	(No symbol) [0x0069CE46]
+	(No symbol) [0x0066C5D3]
+	(No symbol) [0x0066D424]
+	GetHandleVerifier [0x00A4BBC3+2435075]
+	GetHandleVerifier [0x00A47163+2416035]
+	GetHandleVerifier [0x00A6350C+2531660]
+	GetHandleVerifier [0x0081F1B5+155125]
+	GetHandleVerifier [0x00825B5D+182173]
+	GetHandleVerifier [0x0080F9B8+91640]
+	GetHandleVerifier [0x0080FB60+92064]
+	GetHandleVerifier [0x007FA620+4704]
+	BaseThreadInitThunk [0x75C25D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-04-13 12:00:04,265:Browser closed.
+2025-04-13 12:01:58,492:====== WebDriver manager ======
+2025-04-13 12:01:58,492:====== WebDriver manager ======
+2025-04-13 12:02:01,383:Get LATEST chromedriver version for google-chrome
+2025-04-13 12:02:01,571:Get LATEST chromedriver version for google-chrome
+2025-04-13 12:02:02,849:Driver [C:\Users\abhis\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-13 12:02:07,518:Website is live. Status Code: complete
+2025-04-13 12:02:07,518:Page load time: 3.7066617012023926 seconds
+2025-04-13 12:02:17,563:Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008080E3+60707]
+	GetHandleVerifier [0x00808124+60772]
+	(No symbol) [0x00630683]
+	(No symbol) [0x00678660]
+	(No symbol) [0x006789FB]
+	(No symbol) [0x006C1022]
+	(No symbol) [0x0069D094]
+	(No symbol) [0x006BE824]
+	(No symbol) [0x0069CE46]
+	(No symbol) [0x0066C5D3]
+	(No symbol) [0x0066D424]
+	GetHandleVerifier [0x00A4BBC3+2435075]
+	GetHandleVerifier [0x00A47163+2416035]
+	GetHandleVerifier [0x00A6350C+2531660]
+	GetHandleVerifier [0x0081F1B5+155125]
+	GetHandleVerifier [0x00825B5D+182173]
+	GetHandleVerifier [0x0080F9B8+91640]
+	GetHandleVerifier [0x0080FB60+92064]
+	GetHandleVerifier [0x007FA620+4704]
+	BaseThreadInitThunk [0x75C25D49+25]
+	RtlInitializeExceptionChain [0x7789CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7789CE91+561]
+
+2025-04-13 12:02:19,798:Browser closed.
